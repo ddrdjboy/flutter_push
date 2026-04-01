@@ -18,5 +18,5 @@ apns:
   key-id: 7GAN6ZZ8Z8            # Apple .p8 Key ID
   team-id: V55RYE9J7R          # Apple Team ID
   key-file: classpath:apns-key.p8
-  bundle-id: com.samanthena.flutteraiagent  # 你的 App Bundle ID
+  bundle-id: com.samanthena.flutterNotification  # 你的 App Bundle ID
   production: false              # 开发阶段用 false，上线改 true
