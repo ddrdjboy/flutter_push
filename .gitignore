@@ -31,3 +31,9 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### apns-key ###
+*.p8
+
+### firebase account ###
+firebase-service-account.json
