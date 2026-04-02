@@ -13,8 +13,8 @@ import org.springframework.web.bind.annotation.*;
 public class DeviceController {
 // 7
 // 8
-// 10
-    private final DeviceService deviceService;
+// 910
+private final DeviceService deviceService;
 
     @PostMapping("/register")
     public ResponseEntity<ApiResponse> register(@RequestBody DeviceRegisterRequest req) {
