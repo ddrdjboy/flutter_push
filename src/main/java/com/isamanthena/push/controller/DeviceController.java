@@ -11,7 +11,8 @@ import org.springframework.web.bind.annotation.*;
 @RequestMapping("/api/devices")
 @RequiredArgsConstructor
 public class DeviceController {
-//
+// 7
+// 8
     private final DeviceService deviceService;
 
     @PostMapping("/register")
