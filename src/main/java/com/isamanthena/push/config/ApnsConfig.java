@@ -12,7 +12,7 @@ import java.security.InvalidKeyException;
 import java.security.NoSuchAlgorithmException;
 import com.eatthepath.pushy.apns.auth.ApnsSigningKey;
 //
-
+//
 @Configuration
 public class ApnsConfig {
 
