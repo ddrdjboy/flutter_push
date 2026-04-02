@@ -14,12 +14,9 @@ public class DeviceController {
 // 7
 // 8
 // 910
-<<<<<<< HEAD
 // 12
-=======
 // 13
->>>>>>> 79418b7 (13)
-private final DeviceService deviceService;
+    private final DeviceService deviceService;
 
     @PostMapping("/register")
     public ResponseEntity<ApiResponse> register(@RequestBody DeviceRegisterRequest req) {
