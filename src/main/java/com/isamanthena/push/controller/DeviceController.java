@@ -16,7 +16,11 @@ public class DeviceController {
 // 910
 // 12
 // 13
+<<<<<<< HEAD
 // 15
+=======
+// 14
+>>>>>>> 6b60d9e (14)
     private final DeviceService deviceService;
 
     @PostMapping("/register")
