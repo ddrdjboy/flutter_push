@@ -13,6 +13,7 @@ import org.springframework.web.bind.annotation.*;
 public class DeviceController {
 // 7
 // 8
+// 10
     private final DeviceService deviceService;
 
     @PostMapping("/register")
