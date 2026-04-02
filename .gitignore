@@ -37,3 +37,6 @@ build/
 
 ### firebase account ###
 firebase-service-account.json
+
+### start.sh ###
+start.sh
